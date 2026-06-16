@@ -1,5 +1,4 @@
 import type { Metadata } from 'next';
-// @ts-ignore: allow importing global CSS without type declarations
 import './globals.css';
 import AuthButton from '@/components/AuthButton';
 import Link from 'next/link';
